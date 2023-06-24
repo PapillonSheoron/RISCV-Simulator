@@ -1,0 +1,39 @@
+================================================
+Functional Simulator for subset of RISCV Processor
+================================================
+
+README
+
+Table of contents-
+1. Directory Structure
+2. How to build and execute
+
+Directory Structure:
+--------------------
+CS204-Project
+  |
+  |- bin
+      |
+      |- 
+  |- doc
+      |
+      |- design-doc.docx
+  |- include
+      |
+      |- myRISCVSim.h
+  |- src
+      |- main.py
+      |- myRISCVSim.py
+      |- myRISCVSim_fowd.py
+  |- test
+      |- sumArray.mc
+      |- fibbo.mc
+      |- BubbleSort.mc
+
+
+
+
+How to build:
+1) Open Main.py
+2) Run the file
+
