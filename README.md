@@ -1,8 +1,10 @@
+
 ================================================
 Functional Simulator of RISCV Processor
 ================================================
 
 README:
+
 Contributors:
 -------------------------------------------------
 | Developer's Name   | Developer's Email ID     |
@@ -44,3 +46,4 @@ CS204-Project
 How to build:
 1) Open Main.py
 2) Run the file
+
