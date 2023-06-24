@@ -3,7 +3,6 @@ Functional Simulator of RISCV Processor
 ================================================
 
 README:
-
 Contributors:
 -------------------------------------------------
 | Developer's Name   | Developer's Email ID     |
