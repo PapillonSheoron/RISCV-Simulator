@@ -1,26 +1,24 @@
 
-================================================
+
 Functional Simulator of RISCV Processor
-================================================
 
 README:
 
 Contributors:
--------------------------------------------------
+
 | Developer's Name   | Developer's Email ID     |
-|-----------------------------------------------|
+
 | Dhananjay Goel     | 2021csb1165@iitrpr.ac.in |
 | Dhruv Singh Negi   | 2021csb1167@iitrpr.ac.in |
 | Kritika Bansal     | 2021csb1184@iitrpr.ac.in |
 | Virat Jain         | 2021csb1220@iitrpr.ac.in |
--------------------------------------------------
+
 
 Table of contents
 1. Directory Structure
 2. How to build and execute   
 
 Directory Structure:
---------------------
 CS204-Project
   |
   |- bin
