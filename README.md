@@ -1,4 +1,3 @@
-# RISCV-Simulator
 ================================================
 Functional Simulator of RISCV Processor
 ================================================
